@@ -1,5 +1,4 @@
-SenseTapForOculusRiftDK2
-========================
+- SenseTapForOculusRiftDK2
 
 Oculus Rift DK2のタップを検出するサンプルプログラムです。
 タップとはDK2の横の辺りを指で”コン”と叩く動作のことです。
@@ -11,5 +10,6 @@ http://static.oculusvr.com/sdk-downloads/documents/Oculus_Developer_Guide_0.4.1.
 
 ライセンスはpublic domainとしますのでご自由にお使いください。
 
-評価環境：Oculus SDK 0.4.2、Unity 4.5.2
+評価環境：Oculus SDK 0.4.2、Unity 4.5.2。
+
 未評価ですがDK1でも動作すると思います。
