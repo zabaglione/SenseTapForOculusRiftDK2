@@ -9,3 +9,5 @@ http://static.oculusvr.com/sdk-downloads/documents/Oculus_Developer_Guide_0.4.1.
 
 プログラムを見ると分かりますが加速度を取っているだけです。
 ライセンスはpublic domainとしますのでご自由にお使いください。
+
+評価環境：Oculus SDK 0.4.2、Unity 4.5.2
